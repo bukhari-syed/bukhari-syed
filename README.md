@@ -1,8 +1,9 @@
 ## Hi there 👋, I'm Syed
 
-- 🚀 Building cloud-native data solutions on <b>Azure</b><br>
-  🧠 Leveling up in advanced data structures and clean, efficient coding<br>
-  🤝 Open to data science collabs that solve meaningful problems<br>
-  🧩 Ask me about ML, cloud data workflows & data-driven decisions<br>
-  🙋‍♂️ Pronouns: he/him<br>
-  🎭 Fun fact: I'm a published poet training for my first half marathon!
+- 🚀 I'm currently: Building cloud native data solutions on Azure
+- 🧠 I'm currently learning: Leveling up in advanced data structures and clean, efficient coding
+- 🤝 I'm looking to collaborate on: Data science collabs that solve meaningful problems
+- 🧩 Ask me about: Machine learning, cloud data workflows & data driven decisions
+- 🙋‍♂️ Pronouns: he/him
+- 🎭 Fun fact: I'm a published poet, and now training for my first half marathon!
+
