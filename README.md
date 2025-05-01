@@ -6,5 +6,3 @@
 - 🧩 Ask me about: machine learning concepts, cloud data workflows & data structures and algorithms 
 - 🙋‍♂️ Pronouns: he/him
 - 🎭 Fun fact: I'm a published poet, and now training for my first half marathon!
-- 👋 Projects: i'm always keen on working on new projects. reach out to me if you would like to work on a data project!
-
